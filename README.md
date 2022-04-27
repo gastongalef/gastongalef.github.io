@@ -1,4 +1,10 @@
-# gastongalef.github.io
-Repo codo a codo
-Readme creado para ver que onda
-sdfgsdfgsdf
+# Codo a Codo - FUllstack JavaScript
+
+HTML
+CSS
+JavaScript
+Bootstrap
+GitHub
+
+Link a las clases
+https://drive.google.com/drive/folders/1rrRjWnvV2YG6hsBwEq60N4poYzZfKcVj

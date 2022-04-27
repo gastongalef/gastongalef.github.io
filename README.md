@@ -1,9 +1,13 @@
 # Codo a Codo - FUllstack JavaScript
 
 HTML
+
 CSS
+
 JavaScript
+
 Bootstrap
+
 GitHub
 
 Link a las clases

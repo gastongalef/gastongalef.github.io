@@ -1,10 +1,12 @@
 /*
     CARGAR PERSONAS EN UN ARRAY
+
     La carga de datos finaliza con edad = 0
     VALIDAR QUE LOS DATOS SEAN CORRECTOS:
     - nombre: no vacio && longitud < 50
     - apellido: no vacio && longitud < 60
     - edad: numerico && > 0 && < 119
+
     Listar las personas con errores de formato
 */
 
